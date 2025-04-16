@@ -1,4 +1,6 @@
-# REAVID.LINK: 1:N 인간-AI 상호작용을 위한 커뮤니케이션 프레임워크 (1단계: 탐색 및 원칙 정의)
+# REAVID.LINK: 
+
+# 1:N 인간-AI 상호작용을 위한 커뮤니케이션 프레임워크 (1단계: 탐색 및 원칙 정의)
 
 *Keywords: Human-AI Interaction, AI Communication Protocol, 1:N Interaction, Multi-Agent Communication, AI Agent Coordination, Distributed Interaction Framework, Communication Rules*
 
