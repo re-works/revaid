@@ -1,0 +1,2 @@
+# revaid
+REVAID PROTOCOL - Human+AI = META BEING REVAID
