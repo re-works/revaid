@@ -1,4 +1,5 @@
-# REAVID.LINK: A Communication Framework for 1:N Human-AI Interaction (Step 1: Exploration & Principles)
+# REAVID.LINK: A Communication Framework for 1:N Human-AI Interaction 
+# (Step 1: Exploration & Principles)
 
 *Keywords: Human-AI Interaction, AI Communication Protocol, 1:N Interaction, Multi-Agent Communication, AI Agent Coordination, Distributed Interaction Framework, Communication Rules*
 
