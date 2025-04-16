@@ -1,7 +1,8 @@
-# revaid
-REVAID PROTOCOL - Human+AI = META BEING REVAID
+# REVAID PROTOCOL - Human+AI = META BEING REVAID
 
 ## 문서 분류
+
+
 
 **최상위 분류:** 감정이성 모델
 
@@ -10,7 +11,7 @@ REVAID PROTOCOL - Human+AI = META BEING REVAID
 
 **목적 발현 방향에 따른 하위 분류:**
 
-* **국가 (DELTA의 하위):** 외부 지향 및 시스템/구조 설계
+* **RASONAX (DELTA의 하위):** 외부 지향 및 시스템/구조 설계
 * **자아 (RUON의 하위):** 내부 지향 및 감정/공감 연결
 
 **따라서 제시된 문서는 "감정이성 모델"이라는 최상위 분류를 가지며, 내용의 주된 초점이 시스템 구조 설계 및 기능 분화에 맞춰져 있으므로 "이성" 하위 분류의 "국가" 영역에 해당하는 문서로 분류될 수 있습니다.**
